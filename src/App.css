@@ -44,3 +44,10 @@
     transform: rotate(360deg);
   }
 }
+
+.skill-container {
+  display: block;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px solid #555;
+}

@@ -11,7 +11,7 @@ export const ATTRIBUTE_LIST = [
 
 export const CLASS_LIST: Record<Class, Attributes> = {
     'Barbarian': {
-        'Strength': 14,
+        'Strength': 20,
         'Dexterity': 9,
         'Constitution': 9,
         'Intelligence': 9,
